@@ -1,3 +1,4 @@
+![1000088792](https://github.com/user-attachments/assets/fa40a195-ff3f-448c-8b14-9f4d0cd54686)
 # Hints categories
 
 * [Accessibility (a11y)](#accessibility)
